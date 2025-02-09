@@ -1,5 +1,5 @@
 dom_env
 
-flask_server/*.pkl
+fastapi_server/*.pkl
 
 server/node_modules

@@ -32,6 +32,7 @@ It leverages a **Machine Learning model** trained on real-world DOM datasets.
 │── 📂 server/              # Node.js server to save data
 │── 📂 model/               # Python scripts for ML training
 │── 📂 api/                 # FastAPI server for predictions
+│── 📂 transformer_model/   # Transformer Model for predictions
 │── README.md               # Project documentation
 ```
 

@@ -21,6 +21,7 @@ It leverages a **Machine Learning model** trained on real-world DOM datasets.
 - **Backend:** Node.js (Express)
 - **Machine Learning:** Python, Scikit-learn
 - **API:** FastAPI
+- **Transformer:*** Transformer Model
 - **Data Storage:** JSON / SQLite / MongoDB (optional)
 
 ---

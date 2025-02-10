@@ -3,3 +3,5 @@ dom_env
 fastapi_server/*.pkl
 
 server/node_modules
+
+**/**/*.pth
